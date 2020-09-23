@@ -32,7 +32,7 @@
 
 |column            |type       |options                      |
 |------------------|-----------|-----------------------------|
-|objective_price   |ineger     |nill:false                   |
+|objective_price   |integer     |nill:false                   |
 |user              |references |nill:false,foregin_key:true  |
 |purchase          |references |nill:false,foregin_key:true  |
 
